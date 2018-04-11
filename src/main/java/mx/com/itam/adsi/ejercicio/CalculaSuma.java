@@ -7,7 +7,7 @@ public class CalculaSuma{
 
   public static void main(String...argv) {
     CalculaSuma p = new CalculaSuma();
-    LOG.info("Suma de 3 y 5 " + p.suma(3,5);
+    LOG.info("Suma de 3 y 7 " + p.suma(3,7);
   }
   public double suma(double a, double b) {
      return a+b;
